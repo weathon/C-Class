@@ -14,5 +14,6 @@ int main()
 			cin>>map[i][j];
 		}
 	}
+	
 	return 0;
 }
