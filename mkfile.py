@@ -1,5 +1,4 @@
-file="""
-#include<iostream>
+file="""#include<iostream>
 #include<cstdio>
 using namespace std;
 
